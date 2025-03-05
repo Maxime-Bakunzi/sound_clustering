@@ -48,11 +48,11 @@ Clustering-Unlabeled-Sound-Data/
 2. **Prepare the Dataset:**  
    Place your `.wav` sound files in the `data/` folder.
 3. **Update File Paths:**  
-   In the Jupyter Notebook (`template_clustering_assignment.ipynb`), update the `data_path` variable to point to your dataset folder.
+   In the Jupyter Notebook (`sound_clustering.ipynb`), update the `data_path` variable to point to your dataset folder.
 4. **Launch the Notebook:**  
    Open the Jupyter Notebook:
    ```bash
-   jupyter notebook template_clustering_assignment.ipynb
+   jupyter notebook sound_clustering.ipynb
    ```
 5. **Execute the Cells:**  
    Run the notebook cells sequentially to perform feature extraction, visualization, dimensionality reduction, clustering, and evaluation.
